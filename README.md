@@ -33,3 +33,6 @@ A clean dataset with accurate sales information, ready for reporting or dashboar
 
 ## Author
 Data Analyst Portfolio Project
+
+## Opmerking (Nederlands)
+Dit project is gemaakt als onderdeel van mijn portfolio om mijn vaardigheden in data cleaning en Python te laten zien.
