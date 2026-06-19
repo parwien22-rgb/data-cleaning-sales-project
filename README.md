@@ -1,23 +1,35 @@
 # Data Cleaning Sales Project
 
 ## Overview
-This project demonstrates data cleaning and basic data analysis using Python and Pandas. The goal is to transform raw sales data into a clean and usable dataset for analysis.
+This project demonstrates data cleaning and basic data analysis using Python and Pandas. The goal is to transform raw sales data into a clean dataset ready for analysis.
 
-## Goal
-Transform raw, messy sales data into a clean dataset ready for analysis.
+## Problem
+Real-world datasets often contain missing values, duplicates, and inconsistent formatting. This project shows how to handle these issues.
 
-## Tools
+## Solution
+Using Python and Pandas, the dataset is cleaned and prepared for analysis.
+
+## Steps
+- Load raw sales data
+- Inspect missing values
+- Remove missing values
+- Remove duplicate records
+- Standardize column names
+- Perform basic sales analysis
+- Export cleaned dataset
+
+## Tools Used
 - Python
 - Pandas
-- GitHub
-
-## Project Structure
-- data/ → raw dataset
-- src/ → Python scripts (to be added)
-- README.md → project documentation
+- Git & GitHub
 
 ## Result
-The dataset is cleaned by removing missing values and duplicates, and is ready for further analysis.
+A clean dataset with accurate sales information, ready for reporting or dashboard creation.
+
+## Output
+- Total sales calculation
+- Average sales calculation
+- Cleaned CSV file generated
 
 ## Author
 Data Analyst Portfolio Project
